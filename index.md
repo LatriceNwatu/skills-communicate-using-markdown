@@ -6,4 +6,6 @@
 ###### Keep up the good work
 ### Added positive affirmations 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-## var myVar = "Hello, world!";
+``` javascript
+var myvar = "Hello, world!";
+```
